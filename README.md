@@ -1,5 +1,5 @@
 
-# 🚀 CI/CD Demo Project
+# 🚀 CI using Github Actions
 
 This is a simple Node.js project created to demonstrate **Continuous Integration(CI)** using **GitHub Actions**.
 
