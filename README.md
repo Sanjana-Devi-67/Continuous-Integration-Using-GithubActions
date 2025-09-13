@@ -3,14 +3,6 @@
 
 This is a simple Node.js project created to demonstrate **Continuous Integration and Continuous Deployment (CI/CD)** using **GitHub Actions**.
 
-## 📂 Project Structure
-├── sum.js # Simple function
-├── sum.test.js # Jest test cases
-├── package.json # Dependencies & scripts
-├── jest.config.js # Jest configuration
-└── .github/workflows/ci.yml # CI pipeline
-
-
 ## ⚙️ Features
 - Node.js setup with npm
 - Unit testing using **Jest**
