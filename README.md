@@ -1,7 +1,7 @@
 
 # 🚀 CI/CD Demo Project
 
-This is a simple Node.js project created to demonstrate **Continuous Integration and Continuous Deployment (CI/CD)** using **GitHub Actions**.
+This is a simple Node.js project created to demonstrate **Continuous Integration(CI)** using **GitHub Actions**.
 
 ## ⚙️ Features
 - Node.js setup with npm
